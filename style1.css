@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.backgroundimg {
+    background-image: url("hostel.png");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
